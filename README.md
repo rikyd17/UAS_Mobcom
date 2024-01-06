@@ -29,7 +29,8 @@ Berikut macam-macam tampilan yang ada dalam aplikasi Rotie
   (Berisi informasi tentang akun pribadi) <br />
   <img width="157" alt="image" src="https://github.com/rikyd17/UAS_Mobcom/assets/114652908/870d20cc-656f-4b2d-9624-a91c834f6e27">
 
-# Link Youtube : 
+# Link Youtube : https://youtu.be/EmCODjpaEoQ
+
 
 
 
